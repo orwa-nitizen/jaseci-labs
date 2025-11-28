@@ -1,1 +1,1 @@
-# jaseci-labs
+This project implements a secure password generator using Jaclang and an LLM-driven model. The goal is to create strong, randomized passwords that are safe for authentication, user account setup, and automated security workflows. The generator enforces modern security standards by producing passwords that include uppercase and lowercase letters.
